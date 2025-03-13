@@ -1,0 +1,10 @@
+.converter-container {
+    display: flex;
+    flex-direction: column;
+    width: 16rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 12rem;
+    border: 3px solid hsl(0, 0%, 50%);
+}
