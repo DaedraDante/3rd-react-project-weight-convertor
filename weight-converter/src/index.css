@@ -1,7 +1,18 @@
+.converter-picker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1em;
+    margin-top: -0.4em;
+    margin-bottom: 4em;
+}
+
 .converter-container {
     display: flex;
     flex-direction: column;
-    width: 16rem;
+    width: 28rem;
+    height: 16rem;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
